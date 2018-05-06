@@ -1,1 +1,2 @@
 prop.from.git: "git common"
+prop2.from.git: "prop2 = git common !!!! "
