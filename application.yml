@@ -1,2 +1,2 @@
-prop.from.git: "git common"
-prop2.from.git: "prop2 = git common !!!! "
+service:
+  account.api.baseUri: "http://localhost:9080/api/v1/account"
